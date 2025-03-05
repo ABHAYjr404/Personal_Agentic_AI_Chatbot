@@ -6,6 +6,7 @@ This guide provides step-by-step instructions to set up your project environment
 
 1. [Setting Up a Python Virtual Environment](#setting-up-a-python-virtual-environment): [Using pip and venv](#using-pip-and-venv)
 2. [Running the application](#project-phases-and-python-commands)
+3. [Screenshots](#screenshots)
 
 ## Setting Up a Python Virtual Environment
 
@@ -66,6 +67,12 @@ python backend.py
 ```
 streamlit run frontend.py
 ```
+## Screenshots
+![AI agent as a Data Analyst](public/ss1.png)
+![Response](public/ss2.png)
+![AI agent as a Software Engineer](public/ss3.png)
+![Response 1st Half](public/ss4.png)
+![Response 2nd Half](public/ss5.png)
 
 ## IMPORTANT
 
